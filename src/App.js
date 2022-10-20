@@ -26,7 +26,7 @@ function App() {
             <button className=" rounded-full md:px-10 py-3 px-20 bg-[white] shadow-lg mt-5 text-Violet font-open text-1xl hover:bg-SoftMagenta hover:text-[white]  ">
               Register
             </button>
-            <div className=" w-[100%] mt-8 flex gap-3 text-[white] items-center justify-center md:justify-end md:mt-[15rem] md:gap-5   ">
+            <div className=" w-[100%] mt-8 flex gap-3 text-[white] items-center justify-center lg:justify-end lg:mt-[15rem] md:gap-5   ">
               <RiFacebookCircleLine className=" text-[35px] hover:text-SoftMagenta  " />
               <TiSocialTwitterCircular className=" text-[40px] hover:text-SoftMagenta  " />
               <BsInstagram className=" text-[30px]  hover:text-SoftMagenta" />
